@@ -1,0 +1,171 @@
+brand,pname,skintype,price
+Nivea,Urban skin detox 1 minute detox mask,normal   ,low
+Nivea,Q10 plus C Sheet mask,combination ,low
+Nivea,Nivea Pure Skin Charcoal Sheet Mask,normal ,low
+Nivea,Nivea Hyaluron Cellular Filler Firming Sheet Mask,aging,low
+Nivea,Nivea 3-in-1 Urban Skin Detox Claywash Mask,normal,low
+Nivea,Nivea Pure Skin Charcoal Sheet Mask,oily ,low
+Himalaya,Himalaya Herbals Neem Face Pack,oily ,low
+Himalaya,Himalaya Herbals Neem Face Pack,normal,low
+Himalaya,Himalaya Herbals Purifying Neem Peel-Off Mask,normal,low
+Himalaya,Himalaya Herbals Purifying Neem Peel-Off Mask,oily ,low
+Himalaya,Himalaya Herbals Almond & Cucumber Peel-Off Mask,normal,low
+Himalaya,Himalaya Herbals Almond & Cucumber Peel-Off Mask,dry,low
+Himalaya,Himalaya Herbals Refreshing Fruit Pack,normal,low
+Himalaya,Himalaya Herbals Refreshing Fruit Pack,oily ,low
+Himalaya,Himalaya Herbals Refreshing Fruit Pack,dry,low
+Himalaya,Himalaya Herbals Refreshing Fruit Pack,combination,low
+Himalaya,Himalaya Herbals Refreshing Fruit Pack,sensitive,low
+Himalaya,Himalaya Herbals Mud Pack,oily,low
+Himalaya,Himalaya Herbals Mud Pack,normal,low
+Ponds,Pond's White Beauty Spot-less Fairness Face Mask,normal,low
+Ponds,Pond's Age Miracle Firm & Lift Face Mask,aging,low
+Neutrogena,Neutrogena Deep Clean Purifying Wash-Off Clay Mask,normal,mid
+Neutrogena,Neutrogena Deep Clean Purifying Wash-Off Clay Mask,oily,mid
+Neutrogena,Neutrogena Hydro Boost Hydrating 100% Hydrogel Mask,normal,mid
+Neutrogena,Neutrogena Fine Fairness Brightening Sheet Mask,normal,mid
+Neutrogena,Neutrogena Rapid Clear Stubborn Acne Daily Leave-On Mask,acne-prone,mid
+Neutrogena,Neutrogena Deep Clean Purifying Peel-Off Mask,oily,mid
+Neutrogena,Neutrogena Rapid Wrinkle Repair Sheet Mask,aging,mid
+Neutrogena,Neutrogena Light Therapy Acne Mask,acne-prone,mid
+Neutrogena,Neutrogena Deep Clean Purifying 100% Hydrogel Mask,normal,mid
+Neutrogena,Neutrogena Pink Grapefruit Acne-Prone Skin Peel-Off Mask,acne-prone,mid
+Clinique,Clinique Moisture Surge Overnight Mask,normal,high
+Clinique,Clinique Pore Refining Solutions Charcoal Mask,combination,high
+Clinique,Clinique Pore Refining Solutions Charcoal Mask,oily,high
+Clinique,Clinique Even Better Brightening Moisture Mask,normal,high
+Clinique,Clinique Pep-Start Double Bubble Purifying Mask,normal,high
+Clinique,Clinique Acne Solutions Oil-Control Cleansing Mask,oily,high
+Clinique,Clinique Acne Solutions Oil-Control Cleansing Mask,acne-prone,high
+Clinique,Clinique City Block Purifying Charcoal Clay Mask + Scrub,normal,high
+Clinique,Clinique City Block Purifying Charcoal Clay Mask + Scrub,oily,high
+Clinique,Clinique Turnaround™ Revitalizing Instant Facial mask,normal,high
+Plum,Plum Green Tea Clear Face Mask,oily,mid
+Plum,Plum Green Tea Clear Face Mask,acne-prone,mid
+Plum,Plum Chamomile and White Tea Glow-Getter Face Mask,normal,mid
+Plum,Plum Chamomile and White Tea Glow-Getter Face Mask,combination,mid
+Plum,Plum Grape Seed and Sea Buckthorn Renaissance Face Mask,normal,mid
+Plum,Plum E-Luminence Deep Moisturizing Creme Mask,dry,mid
+Plum,Plum E-Luminence Deep Moisturizing Creme Mask,normal,mid
+Plum,Plum Olive and Macadamia Healthy Hydration Face Mask,dry,mid
+Plum,Plum Olive and Macadamia Healthy Hydration Face Mask,normal,mid
+Plum,Plum Berry Sorbet Gentle Biodegradable Face Mask,normal,mid
+Plum,Plum Hibiscus and Rosemary Gentle Defence Rethink Pollution Face Mask,normal,mid
+Plum,Plum Vanilla Vibes Revitalizing Face Mask,normal,mid
+Plum,Plum Avocado and Almond Hydration Sleeping Mask,normal,mid
+Kiehl's,Kiehl's Rare Earth Deep Pore Cleansing Mask,normal,high
+Kiehl's,Kiehl's Rare Earth Deep Pore Cleansing Mask,oily,high
+Kiehl's,Kiehl's Turmeric & Cranberry Seed Energizing Radiance Masque,normal,high
+Kiehl's,Kiehl's Cilantro & Orange Extract Pollutant Defending Mask,normal,high
+Kiehl's,Kiehl's Calendula & Aloe Soothing Hydration Masque,normal,high
+Kiehl's,Kiehl's Ultra Facial Overnight Hydrating Masque,normal,high
+Kiehl's,Kiehl's Instant Renewal Concentrate Mask,normal,high
+L'Oreal,L'Oréal Paris Pure-Clay Detox & Brighten Face Mask,normal,mid
+L'Oreal,L'Oréal Paris Pure-Clay Detox & Brighten Face Mask,oily,mid
+L'Oreal,L'Oréal Paris Pure-Clay Exfoliate & Refine Pores Face Mask,normal,mid
+L'Oreal,L'Oréal Paris Pure-Clay Clear & Comfort Face Mask,sensitive,mid
+L'Oreal,L'Oréal Paris Pure-Clay Purify & Mattify Face Mask,oily,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power Intensive Overnight Mask,aging,mid
+L'Oreal,L'Oréal Paris Pure-Clay Energizing & Brightening Mask,normal,mid
+L'Oreal,L'Oréal Paris Age Perfect Cell Renewal Rosy Tone Mask,aging,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power Intensive Overnight Mask,aging,mid
+L'Oreal,L'Oréal Paris Revitalift Derm Intensives 1.5% Pure Hyaluronic Acid Serum Mask,normal,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power Concentrated Serum Mask,aging,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power Anti-Aging Overnight Mask,aging,mid
+L'Oreal,L'Oréal Paris Pure-Sugar Scrub Purify & Unclog Face Mask,normal,mid
+L'Oreal,L'Oréal Paris Pure-Sugar Scrub Nourish & Soften Face Mask,normal,mid
+L'Oreal,L'Oréal Paris Pure-Sugar Scrub Smooth & Glow Face Mask,normal,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power LZR Hyaluronic Acid Plumping Sheet Mask,normal,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power LZR Glycolic Acid Peel Pad Mask,normal,mid
+L'Oreal,L'Oréal Paris Revitalift Triple Power LZR Vitamin C Brightening Sheet Mask,normal,mid
+Laneige,Laneige Water Sleeping Mask,normal,high
+Laneige,Laneige Water Pocket Sheet Mask,normal,high
+Laneige,Laneige Time Freeze Firming Sleeping Mask,aging,high
+Laneige,Laneige Cica Sleeping Mask,sensitive,high
+Laneige,Laneige Water Bank Hydro Gel Sheet Mask,normal,high
+Laneige,Laneige Mini Pore Waterclay Mask,oily,high
+Laneige,Laneige Fresh Calming Morning Mask,normal,high
+Laneige,Laneige Clear-C Peeling Mask,normal,high
+Forest Essential,Forest Essentials Narangi & Nagkesar Ubtan,normal,high
+Forest Essential,Forest Essentials Soundarya Radiance Cream with 24 Karat Gold,normal,high
+Forest Essential,Forest Essentials Multani Mitti Ubtan,oily,high
+Forest Essential,Forest Essentials Multani Mitti Ubtan,acne-prone,high
+Forest Essential,Forest Essentials Facial Ubtan Multani Mitti,normal,high
+Forest Essential,Forest Essentials Facial Ubtan Multani Mitti,oily,high
+Forest Essential,Forest Essentials Tejasvi Brightening & Lightening Sheet Mask,normal,high
+Forest Essential,Forest Essentials Mysore Sandalwood & Nagkesar Ubtan,normal,high
+Forest Essential,Forest Essentials Sandalwood & Turmeric Face Mask,dry,high
+Minimalist,Minimalist Multi-Peptide Youth Preserve Mask,aging,mid
+Minimalist,Minimalist Hyaluronic Acid 2% + Vitamin B5 Mask,normal,mid
+Minimalist,Minimalist Squalane 100% + Vitamin E Mask,dry,mid
+Minimalist,Minimalist Salicylic Acid 2% Mask,oily,mid
+Minimalist,Minimalist Salicylic Acid 2% Mask,acne-prone,mid
+Minimalist,Minimalist Alpha Arbutin 2% + Hyaluronic Acid 1% Mask,normal,mid
+Minimalist,Minimalist Glycolic Acid 7% Toning Solution Mask,normal,mid
+Minimalist,Minimalist Niacinamide 5% + Licorice 2% Mask,normal,mid
+Minimalist,Minimalist Mandelic Acid 3% + Hyaluronic Acid 1% Mask,normal,mid
+Minimalist,Minimalist Azelaic Acid 10% + Niacinamide 5% Mask,normal,mid
+Minimalist,Minimalist BHA 2% + Willow Bark Extract 2% Mask,oily,mid
+Minimalist,Minimalist BHA 2% + Willow Bark Extract 2% Mask,acne-prone,mid
+Minimalist,Minimalist Pro-Retinoid 2% Dermal Therapy Mask,aging,mid
+Minimalist,Minimalist Neem & Turmeric Gel Mask,normal,mid
+Minimalist,Minimalist Neem & Turmeric Gel Mask,acne-prone,mid
+Minimalist,Minimalist 2% Sepicalm + Oat Moisturizing Mask,normal,mid
+Ordinary,The Ordinary AHA 30% + BHA 2% Peeling Solution,normal,high
+Ordinary,The Ordinary Salicylic Acid 2% Masque,oily,high
+Ordinary,The Ordinary Salicylic Acid 2% Masque,acne-prone,high
+Foxtail,Foxtail overnight glow mask,normal,mid
+Aqualogica,Glow+sheet mask - 25g,normal,mid
+Aqualogica,Glow+gelato gace mask - 100g,dry,mid
+Aqualogica,Glow+gelato gace mask - 100g,oily,mid
+Aqualogica,Glow+gelato gace mask - 100g,combination,mid
+Aqualogica,Glow+gelato gace mask - 100g,sensitive,mid
+Dr. Sheth,Dr. Sheth's Haldi & Hyaluronic Acid Sleeping Mask,normal,mid
+Dr. Sheth,Dr. Sheth's Basic Brightening Extra Gentle Daily Peel,normal,mid
+Dr. Sheth,Dr. Sheth's Kaolin & Bentonite Clay Mask,oily,mid
+Dr. Sheth,Dr. Sheth's Kaolin & Bentonite Clay Mask,acne-prone,mid
+Dr. Sheth,Dr. Sheth's Extra Gentle Daily Peel for Sensitive Skin,sensitive,mid
+Dr. Sheth,Dr. Sheth's Bindi & Gloss Restorative Sheet Mask,normal,mid
+Dr. Sheth,Dr. Sheth's Rosehip & Retinoid Overnight Repair Mask,aging,mid
+Dr. Sheth,Dr. Sheth's Clarifying Sulphur Face Mask,oily,mid
+Dr. Sheth,Dr. Sheth's Clarifying Sulphur Face Mask,acne-prone,mid
+Cosrx,COSRX Ultimate Nourishing Rice Overnight Spa Mask(60ml),normal,high
+Cosrx,COSRX Full Fit Propolis Honey Overnight Mask(60ml),normal,high
+Dot & Key,Dot & Key Anti-Acne Salicylic Green Clay Face Mask,normal,mid
+Dot & Key,Dot & Key Pink Clay Face Mask For Glowing Skin With Vitamin C,normal,mid
+Dot & Key,Dot & Key Illuminating Glow Detan Clay Polish,normal,mid
+Dot & Key,Dot & Key Glow C Sleep Mask Vitamin C Overnight Radiance Recovery(60ml),normal,mid
+Dot & Key,Dot & Key Cica Calming Rapid Relief Face Mask(25ml),normal,mid
+Pixi,PIXI Vitamin-C Remedy Mask(300ml),normal,high
+Pixi,PIXI Peel and polish(80ml),normal,high
+Pixi,PIXI Botanical Collagen Mask,normal,high
+Pixi,PIXI Rose Remedy mask,normal,high
+Pixi,PIXI Milky Remedy Mask,normal,high
+Pixi,PIXI Clarity Acid Peel,normal,high
+Pixi,PIXI GLOW Glycolic Asid Brightening Infusion Sheet Mask,normal,high
+Pixi,PIXI glow mud mask,normal,high
+Pixi,PIXI Volume PLUMP Collagen Boost (Pack Of 3)(Each 23gm),normal,high
+Bioderma,Bioderma Sensibio Mask,sensitive,mid
+Bioderma,Bioderma Sebium Pore Refiner Mask,oily,mid
+Bioderma,Bioderma Sebium Pore Refiner Mask,combination,mid
+Bioderma,Bioderma Hydrabio Masque Moisturizing Mask,sensitive,mid
+Bioderma,Bioderma Photoderm After-Sun SOS Soothing & Moisturizing Mask,normal,mid
+The Face Shop,The Face Shop Real Nature Sheet Masks (Various Types),normal,high
+The Face Shop,The Face Shop Bio-Cell Mask,normal,high
+The Face Shop,The Face Shop The Solution Sheet Masks (Various Types),normal,high
+The Face Shop,The Face Shop Dr.Belmeur Daily Repair Soothing Gauze Sheet Mask,sensitive,high
+The Face Shop,The Face Shop Jeju Volcanic Lava Clay Sheet Mask,oily,high
+The Face Shop,The Face Shop Jeju Volcanic Lava Clay Sheet Mask,combination,high
+The Face Shop,The Face Shop Real Blend Calming Creamy Butter Mask,dry,high
+The Face Shop,The Face Shop Real Blend Calming Creamy Butter Mask,sensitive,high
+The Face Shop,The Face Shop The Solution Pore Care Face Mask,oily,high
+The Face Shop,The Face Shop The Solution Pore Care Face Mask,acne-prone,high
+The Face Shop,The Face Shop Real Nature Lemon Citron Face Mask,dull,high
+The Face Shop,The Face Shop Yehwadam Pure Brightening Sheet Mask,dull,high
+The Face Shop,The Face Shop Rice Water Brightening Mask Sheet,dull,high
+The Face Shop,The Face Shop Real Nature Avocado Face Mask,dry,high
+The Face Shop,The Face Shop Herb Day 365 Cleansing Foam Aloe Mask,normal,high
+The Face Shop,The Face Shop Pomegranate and Collagen Volume Lifting Mask Sheet,aging,high
+The Face Shop,The Face Shop Real Blend Avocado Moisture Creamy Mask,dry,high
+The Face Shop,The Face Shop The Solution Nourishing Face Mask,dry,high
+The Face Shop,The Face Shop Jeju Tangerine Brightening Mask Sheet,dull,high

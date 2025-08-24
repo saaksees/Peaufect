@@ -1,0 +1,65 @@
+brand,pname,skintype,price
+Nivea,NIVEA Sun Pro+B2:B57tect & Moisture SPF 15,normal,low
+Nivea,NIVEA Sun Protect & Moisture SPF 30,normal,low
+Nivea,NIVEA Sun Protect & Moisture  SPF 50,normal,low
+Himalaya,Himalaya Herbals Protective Sunscreen Lotion,normal,low
+Ponds,Pond's Sun Protect Non-Oily Sunscreen,oily,low
+Ponds,Pond's Sun Protect Light Feel Sunscreen,combination,low
+Ponds,Pond's Sun Protect SPF 30,normal,low
+Ponds,Pond's White Beauty Sun Protect SPF 30 Fairness Sunscreen,normal,low
+Neutrogena ,Neutrogena Ultra Sheer Dry-Touch Sunscreen,oily,mid
+Neutrogena ,Neutrogena Hydro Boost Water Gel Lotion SPF 30/SPF 50,dry,mid
+Neutrogena ,Neutrogena Clear FaceLiquid Lotion Sunscreen SPF 30/SPF 55,sensitive,mid
+Neutrogena ,Neutrogena Beach  Water + Sun Protection Sunscreen SPF 70,normal,mid
+Neutrogena ,Neutrogena Sensitive Skin Sunscreen SPF 60+,sensitive,mid
+CeraVe ,CeraVe Hydrating Mineral Sunscreen SPF 30/SPF 50,oily,high
+Cetaphil,Cetaphil Sheer Mineral Sunscreen SPF 30,sensitive,mid
+Cetaphil,Cetaphil Daily Facial Moisturizer with Sunscreen SPF 15,normal,mid
+Cetaphil,Cetaphil UVA/UVB Defense SPF 50,normal,mid
+Clinique,Clinique Mineral Sunscreen Fluid for Face SPF 50,oily,mid
+Clinique,Clinique Broad Spectrum SPF Sunscreen,aging,mid
+Plum,Plum Chamomile & White Tea Sheer Matte Day Cream SPF 50 PA+++ (60ml),oily,mid
+Plum,2% Niacinamide & Rice Water SPF 50 PA+++ Hybrid Sunscreen,normal,mid
+Plum,Plum Green Tea Day-Light Sunscreen Light Weight Gel SPF 35 PA+++ (50ml),sensitive,mid
+Plum,Plum Green Tea & Peptide Daily Sunscreen Serum SPF 50 & PA++++ (50ml),aging,mid
+Kiehl's,Kiehl's Super Fluid UV Mineral Defense SPF 50+,dry,high
+Kiehl's,Kiehl's Ultra Facial Moisturizer SPF 30/SPF 50,normal,high
+Kiehl's,Kiehl's Clearly Corrective Dark Spot Solution SPF 30,combination,high
+L'Oreal ,L'Oréal Paris Advanced Suncare Invisible  Clear Finish SPF 50,normal,mid
+L'Oreal ,L'Oréal Paris Revitalift Bright  Brightening Peel Pads SPF 30,normal,mid
+L'Oreal ,L'Oréal Paris Sublime Sun Advanced Sunscreen SPF 50+,normal,mid
+L'Oreal ,L'Oréal Paris Age Perfect Hydra-Nutrition Facial Oil SPF 30,dry,mid
+Laneige,Laneige Water Bank Sunscreen SPF 50+ PA+++,normal,high
+Laneige,Laneige Homme Sun Defense Aqua+ SPF 50+ PA+++,normal,high
+Forest Essentials ,Forest Essentials Sun Fluid SPF 50,normal,high
+Minimalist,Minimalist Sunscreen with SPF 50,normal,mid
+The Ordinary,Mineral UV Filters SPF15 Antioxidants ,normal,high
+The Ordinary,Mineral UV Filters SPF 30 with Antioxidants,normal,high
+Foxtale,Dewy Finish Sunscreen (SPF 70),dry,mid
+Foxtale,Matte Finish Sunscreen (SPF 70),oily,mid
+Foxtale,UltraMatte SPF 50 + ,combination,mid
+Vaseline,"Vaseline, Daily Sun Care, Daily Sun Cream, SPF 50+",normal,low
+Aqualogica,Glow+ Dewy Sunscreen,normal,mid
+Aqualogica,Radiance+ Dewy Sunscreen,normal,mid
+Aqualogica,Detan+ Dewy Sunscreen with SPF 50+ ,normal,mid
+Aqualogica,Hydrate+ Dewy Sunscreen 50g,normal,mid
+Aqualogica,Illuminate+ Dewy Sunscreen ,normal,mid
+Dr Sheth's,CERAMIDE AND VITAMIN C SUNSCREEN,normal,mid
+Dr Sheth's,HALDI AND HYALURONIC SUNSCREEN,normal,mid
+Cosrx,Cosrx Sunscreen Spf 50 Pa+++ Aloe Soothing,normal,high
+Cosrx,Cosrx Vitamin E Vitalizing Sunscreen (50ml),normal,high
+Dot&Key,Vitamin C + E SPF 50 Sunscreen,dry,mid
+Dot&Key,Strawberry Dew Sunscreen Stick SPF 50,normal,mid
+Dot&Key,Watermelon Cooling SPF 50 Sunscreen,oily,mid
+Dot&Key,"Barrier Repair Sunscreen, SPF 50+ PA++++",oily,mid
+Dot&Key,Cica + Niacinamide SPF 50 Sunscreen,oily,mid
+Chemist at play,Hydrating Sunscreen Spray For Face & Body (SPF 60 & PA++++),normal,mid
+Chemist at play,Glow Sunscreen ,dry,mid
+Chemist at play,Matte Sunscreen SPF 60,oily,mid
+Chemist at play,Mineral Sunstick ,normal,mid
+Chemist at play,Oil-Control Gel Sunscreen,oily,mid
+Bioderma ,Bioderma Photoderm MAX Aquafluid SPF 50+,sensitive,mid
+Bioderma ,Bioderma Photoderm AR SPF 50,sensitive,mid
+Bioderma ,Bioderma Photoderm Spot SPF 50+,sensitive,mid
+The Face Shop,The Face Shop The Power Long-Lasting Suncream SPF50+ Pa+++,oily,high
+The Face Shop,The Face Shop The Therapy Vegan Moisturizing Sun Serum,normal,high

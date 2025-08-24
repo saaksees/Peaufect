@@ -1,0 +1,109 @@
+nivea,Nivea Refreshing,normal,low
+nivea,Nivea Purifying,oily ,low
+nivea,Nivea Gentle,sensitive,low
+nivea,Nivea Moisturizing,dry ,low
+nivea,Nivea Acne Control,acne-prone,low
+himalaya,himalaya neem,oily ,low
+himalaya,himalaya purifying,normal,low
+himalaya,himalaya moisturizing,dry,low
+himalaya,himalaya herbal,normal,low
+himalaya,himalaya brightening,normal,low
+ponds,ponds pure white,normal,low
+ponds,ponds oil control,sensitive,low
+ponds,ponds clear,acne-prone,low
+ponds,ponds gentle,sensitive ,low
+ponds,ponds nourishing,dry ,low
+neutrogena,neutrogena oil-free acne,acne-prone,mid
+neutrogena,neutrogena deep clean,normal,mid
+neutrogena,neutrogena hydro boost,dry,mid
+neutrogena,neutrogena fresh foaming,normal,mid
+neutrogena,neutrogena visibly clear,acne-prone,mid
+cerave,cerave foaming,normal,high
+cerave,cerave hydrating,dry,high
+cerave,cerave acne foaming,oily ,high
+cerave,cerave renewing,normal,high
+cerave,cerave salicylic acid,acne-prone,high
+cetaphil,cetaphil gentle,normal,mid
+cetaphil,cetaphil oily skin,oily ,mid
+cetaphil,cetaphil daily facial,normal,mid
+cetaphil,cetaphil foaming,normal,mid
+cetaphil,cetaphil extra gentle,sensitive,mid
+clinique,clinique liquid facial soap,normal,high
+clinique,clinique acne solutions cleansing foam,acne-prone,high
+clinique,clinique rinse-off foaming cleanser,normal,high
+clinique,clinique extra mild facial soap,sensitive,high
+clinique,clinique city block purifying™ charcoal cleansing gel,oily ,high
+plum,plum green tea pore cleansing face wash,oily ,mid
+plum,plum grape seed & sea buckthorn glow-restore face cleanser,normal,mid
+plum,plum hello aloe calming daily cleanser,sensitive,mid
+plum,plum chamomile & white tea brighten-up face wash,normal,mid
+kiehls,Kiehl's Ultra Facial Cleanser,normal,high
+kiehls,Kiehl's Blue Herbal Acne Cleanser Treatment,acne-prone,high
+kiehls,Kiehl's Calendula Deep Cleansing Foaming Face Wash,sensitive,high
+kiehls,Kiehl's Clearly Corrective Brightening & Exfoliating Daily Cleanser,normal,high
+kiehls,Kiehl's Rare Earth Deep Pore Daily Cleanser,oily ,high
+loreal,oreal pure clay cleanser detox & brighten,normal,high
+loreal,loreal pure clay cleanser detox & mattify,oily ,high
+loreal,loreal pure clay cleanser detox & glow,dry,high
+loreal,loreal pure clay cleanser exfoliate & refine pores,normal,high
+loreal,loreal pure clay cleanser purify & mattify,acne-prone,high
+laneige,laneige moisture cleansing foam,dry,high
+laneige,laneige multi deep-clean cleanser,oily ,high
+laneige,laneige fresh calming gel cleanser,sensitive,high
+laneige,laneige white dew milk cleanser,normal,high
+laneige,laneige vitamin brightening cleansing water,normal,high
+forest essential,forest essentials delhi rose & honeysuckle lightening & brightening face wash,normal,high
+forest essential,forest essentials soundarya radiant cleansing foam,normal,high
+forest essential,forest essentials saffron infused milk facial cleanser,oily ,high
+forest essential,forest essentials delicate facial cleanser kashmiri saffron & neem,sensitive,high
+forest essential,forest essentials madurai jasmine & mogra gentle deep cleansing wash,normal,high
+minimalist,minimalist 5% niacinamide face wash,normal,mid
+minimalist,minimalist 2% salicylic acid face wash,acne-prone,mid
+minimalist,minimalist 3% tranexamic acid + niacinamide brightening face wash,normal,mid
+minimalist,minimalist 2% azelaic acid face wash,oily ,mid
+minimalist,minimalist 5% glycolic acid face wash,normal,mid
+ordinary,ordinary squalane cleanser,normal,mid
+ordinary,ordinary salicylic acid 2% masque,acne-prone,mid
+ordinary,ordinary amino acids + bha,normal,mid
+ordinary,ordinary high-spreadability fluid primer,oily ,mid
+ordinary,ordinary lactic acid 10% + ha,normal,mid
+foxtale,foxtale hydrating cleanser,dry,mid
+foxtale,vaseline healthy white,normal,low
+foxtale,vaseline men charcoal,oily ,low
+foxtale,vaseline anti-acne,acne-prone,low
+foxtale,vaseline aloe fresh,normal,low
+foxtale,vaseline sensitive,sensitive,low
+aqualogica,detan cleanser,normal,mid
+aqualogica,radiance cleanser,dry,mid
+aqualogica,hydrate cleanser,dry,mid
+dr sheeth,salycylic acid cleanser,acne-prone,mid
+dr sheeth,cica ceramide cleanser,normal,mid
+dr sheeth,haldi  cleanser,dry,mid
+cosrx,cosrx low ph good morning gel cleanser,normal,high
+cosrx,cosrx salicylic acid daily gentle cleanser,acne-prone,high
+cosrx,cosrx low ph first cleansing milk gel,normal,high
+cosrx,cosrx low ph first cleansing gel,oily ,high
+cosrx,cosrx low ph bha overnight mask,normal,high
+dot & key,dot & key hydrating face wash,dry,mid
+dot & key,dot & key zit zapping face wash,acne-prone,mid
+dot & key,dot & key gentle cleansing foam,normal,mid
+dot & key,dot & key skin clarifying face wash,oily ,mid
+dot & key,dot & key glow revealer face wash,normal,mid
+chemist at play,oil control cleanser,oily ,mid
+chemist at play,vitamin c cleanser,dry ,mid
+chemist at play,salycylic acide cleanser,acne-prone,mid
+pixi,pixi glow mud cleanser,normal,high
+pixi,pixi glow tonic,normal,high
+pixi,pixi rose cream cleanser,dry,high
+pixi,pixi vitamin c juice cleanser,normal,high
+pixi,pixi double cleanse,oily ,high
+bioderma,bioderma sensibio h2o micellar water,sensitive,mid
+bioderma,bioderma sebium h2o micellar water,oily ,mid
+bioderma,bioderma hydrabio h2o micellar water,dry,mid
+bioderma,bioderma atoderm h2o micellar water,normal,mid
+bioderma,bioderma abcderm h2o micellar water,normal,mid
+faceshop,faceshop rice water bright cleansing foam,normal,high
+faceshop,faceshop herb day 365 cleansing foam,normal,high
+faceshop,faceshop clean face acne solution foam cleanser,acne-prone,high
+faceshop,faceshop jeju volcanic lava pore cleansing foam,oily ,high
+faceshop,faceshop chia seed sebum control moisture cream cleanser,dry,high

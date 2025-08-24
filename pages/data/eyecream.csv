@@ -1,0 +1,79 @@
+brand,pname,skintype,price
+Nivea,Nivea Aqua Effect Refreshing Eye Cream,normal,low
+Nivea,Nivea Aqua Effect Refreshing Eye Cream,combination,low
+Himalaya,Himalaya Herbals Under Eye Cream,normal,low
+Himalaya,Himalaya Youth Eternity Under Eye Cream,aging,low
+Ponds,Pond's Age Miracle Eye Cream,aging,low
+Ponds,Pond's White Beauty Spot-less + Rosy White Eye Cream,normal,low
+Neutrogena,Neutrogena Rapid Wrinkle Repair Eye Cream,aging,mid
+Neutrogena,Neutrogena Hydro Boost Eye Gel-Cream,normal,mid
+Neutrogena,Neutrogena Hydro Boost Eye Gel-Cream,dry,mid
+Neutrogena,Neutrogena Fine Fairness Eye Cream,normal,mid
+Neutrogena,Neutrogena Oil-Free Eye Makeup Remover,normal,mid
+Neutrogena,Neutrogena Oil-Free Eye Makeup Remover,sensitive,mid
+CeraVe,CeraVe Eye Repair Cream,normal,high
+CeraVe,CeraVe Eye Repair Cream,dry,high
+CeraVe,CeraVe Eye Repair Cream,combination,high
+CeraVe,CeraVe Eye Repair Cream,sensitive,high
+Cetaphil,Cetaphil Hydrating Eye Gel-Cream,normal,mid
+Cetaphil,Cetaphil Hydrating Eye Gel-Cream,dry,mid
+Cetaphil,Cetaphil Hydrating Eye Gel-Cream,combination,mid
+Cetaphil,Cetaphil Hydrating Eye Gel-Cream,sensitive,mid
+Clinique,Clinique All About Eyes,normal,high
+Clinique,Clinique All About Eyes Rich,normal,high
+Clinique,Clinique Even Better Eyes Dark Circle Corrector,normal,high
+Clinique,Clinique Pep-Start Eye Cream,normal,high
+Clinique,Clinique Repairwear Laser Focus Wrinkle Correcting Eye Cream,normal,high
+Clinique,Clinique Repairwear Laser Focus Wrinkle Correcting Eye Cream,aging,high
+Plum,Plum Bright Years Under-Eye Recovery Gel,normal,mid
+Kiehl's,Kiehl's Creamy Eye Treatment with Avocado,normal,high
+Kiehl's,Kiehl's Powerful-Strength Line-Reducing & Dark Circle-Diminishing Vitamin C Eye Serum,normal,high
+Kiehl's,Kiehl's Midnight Recovery Eye,normal,high
+Kiehl's,Kiehl's Youth Dose Eye Treatment,normal,high
+Kiehl's,Kiehl's Youth Dose Eye Treatment,normal,high
+Loreal,L'Oréal Paris Revitalift Laser X3 Eye Cream,aging,mid
+Loreal,L'Oréal Paris Dermo Expertise Eye Makeup Remover,normal,mid
+Loreal,L'Oréal Paris White Perfect Magic White Eye Cream,normal,mid
+Loreal,L'Oréal Paris Youth Code Ferment Eye Essence,normal,mid
+Loreal,L'Oréal Paris Hydrafresh Anti-Ox Grape Seed Hydrating Aqua Balm Eye Gel,normal,mid
+Loreal,L'Oréal Paris Revitalift Triple Power Eye Treatment,aging,mid
+Loreal,L'Oréal Paris Age Perfect Cell Renewal Eye Cream,aging,mid
+Loreal,L'Oréal Paris Wrinkle Expert 45+ Anti-Wrinkle Eye Cream,aging,mid
+Loreal,L'Oréal Paris True Match Eye Cream in a Concealer,normal,mid
+Loreal,L'Oréal Paris Skin Perfect Eye Cream,normal,mid
+Laneige,Laneige Water Bank Eye Gel,normal,high
+Laneige,Laneige Perfect Renew Eye Cream,aging,high
+Laneige,Laneige Water Bank Eye Gel_EX,normal,high
+Laneige,Laneige Time Freeze Eye Serum,aging,high
+Forest Essential,Forest Essentials Intensive Eye Cream with Anise,normal,high
+Forest Essential,Forest Essentials Light Hydrating Hydra Eye Gel,oily,high
+Forest Essential,Forest Essentials Light Hydrating Hydra Eye Gel,combination,high
+Forest Essential,Forest Essentials Intensive Eye Cream with Papaya and Potato,normal,high
+Minimalist,Minimalist Caffeine Solution 5% + EGCG,normal,mid
+Minimalist,Minimalist 2% Alpha Arbutin,normal,mid
+Minimalist,Minimalist Matrixyl 10% + HA,aging,mid
+Minimalist,Minimalist 0.1% Retinol Serum,aging,mid
+Dr Sheth's,Dr. Sheth's Date and Quinoa Under Eye Cream,normal,mid
+Cosrx,COSRX Advanced Snail Peptide Eye Cream,normal,high
+Cosrx,COSRX Hyaluronic Acid Intensive Eye Cream,normal,high
+Cosrx,COSRX Honey Ceramide Eye Cream,normal,high
+Pixi,Pixi 24K Eye Elixir,normal,high
+Pixi,Pixi DetoxifEYE Depuffing Eye Patches,normal,high
+Pixi,Pixi Collagen Eye Serum,normal,high
+Pixi,Pixi FortifEYE Firming Eye Patches,aging,high
+Pixi,Pixi Vitamin-C UnderEye Brightener,normal,high
+Bioderma,Bioderma Sensibio Eye Contour Gel,sensitive,mid
+Bioderma,Bioderma Hydrabio Eye Contour Gel-Cream,sensitive,mid
+Bioderma,Bioderma Sensibio Eye Contour Cream,sensitive,mid
+Bioderma,Bioderma Atoderm Eye Contour Stick,dry,mid
+Bioderma,Bioderma Atoderm Eye Contour Stick,sensitive,mid
+Bioderma,Bioderma Photoderm MAX Eye Contour Stick SPF 50+,normal,mid
+Bioderma,Bioderma Pigmentbio Eye Contour Care,normal,mid
+Bioderma,Bioderma Cicabio Eye Contour Repairing Care,acne-prone,mid
+Bioderma,Bioderma White Objective Eye Contour,normal,mid
+Bioderma,Bioderma Matricium Eye Contour Replenishing Treatment,normal,mid
+Face Shop,The Face Shop Pomegranate and Collagen Volume Lifting Eye Cream,normal,high
+Face Shop,The Face Shop Rice Water Bright Lip & Eye Makeup Remover,normal,high
+Face Shop,The Face Shop Mango Seed Silk Moisturizing Eye Cream,dry,high
+Face Shop,The Face Shop Calendula Essential Moisture Eye Cream,normal,high
+Face Shop,The Face Shop Mango Seed Radiant Moisturizing Eye Cream,normal,high
