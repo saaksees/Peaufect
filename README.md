@@ -112,7 +112,7 @@ PEAUFECT provides general skincare guidance only. Always consult with a dermatol
 
 ## 🌟 Live Demo
 
-Try PEAUFECT live: [Streamlit Cloud Link](https://your-app-link.streamlit.app)
+Try PEAUFECT live: [Streamlit Cloud Link](https://peaufect.streamlit.app/)
 
 ---
 
